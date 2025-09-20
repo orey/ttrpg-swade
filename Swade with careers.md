@@ -182,12 +182,95 @@ Choose specializations within Psionicist career for +2 bonus:
 - Risk of psychic backlash or uncontrolled manifestation
 - Some powers impossible without training (complex telepathy, precise telekinesis)
 
-### Career Synergy with Powers
-- **Psionicist + Scholar**: Advanced power theory, creating new techniques
-- **Psionicist + Rogue**: Subtle mental intrusion, psychic espionage
-- **Psionicist + Warrior**: Combat telepathy, psychic enhanced reflexes
-- **Psionicist + Corporate**: Mass influence, boardroom mind games
-- **Psionicist + Cybertech**: Technopathy, interfacing with AI systems
+## Combat Integration
+
+### Fighting and Shooting
+- **Warrior career** replaces Fighting skill for all melee combat
+- **Warrior career** replaces Shooting skill for all ranged combat
+- **Rogue career** can substitute for ranged combat when using stealth/precision (sniper shots, thrown weapons)
+- **Pilot career** handles vehicle-mounted weapons and starship gunnery
+
+### Combat Maneuvers by Career
+**Warrior Applications:**
+- **Disarm**: Military training in weapon techniques
+- **Grapple**: Wrestling and close combat training
+- **Push**: Using superior positioning and leverage
+- **Trip**: Combat footwork and battlefield awareness
+- **Called Shots**: Precision targeting from combat experience
+
+**Rogue Applications:**
+- **Tricks**: Dirty fighting, distraction, misdirection
+- **Called Shots**: Precision strikes to vital areas
+- **Evasion**: Using agility and battlefield awareness
+- **Stealth Attacks**: Backstabs and ambush techniques
+
+**Psionicist Applications:**
+- **Telekinetic Push**: Using TK powers for Push maneuvers
+- **Mental Interference**: Tricks that confuse enemies mentally
+- **Precognitive Defense**: +1 Parry from danger sense
+- **Telepathic Distraction**: Multi-Actions with reduced penalties
+
+### Athletics and Physical Actions
+- **Warrior career**: Combat athletics, battlefield movement
+- **Rogue career**: Climbing, jumping, acrobatics in combat
+- **Wanderer career**: Natural terrain movement, swimming
+- **Pilot career**: Zero-G movement, vehicle operations
+
+### Intimidation and Social Combat
+- **Warrior career**: Intimidation through martial presence
+- **Noble/Corporate career**: Command presence, social dominance  
+- **Rogue career**: Threats and menacing behavior
+- **Psionicist career**: Telepathic intimidation, mental pressure
+
+### Notice and Awareness
+- **Rogue career**: Spotting ambushes, detecting traps
+- **Warrior career**: Tactical awareness, recognizing threats
+- **Wanderer career**: Natural alertness, tracking enemies
+- **Scholar career**: Analyzing patterns, recognizing magical threats
+- **Psionicist career**: Sensing mental activity, psychic awareness
+
+### Healing and Medicine
+- **Scholar career**: Medical knowledge, surgery, first aid
+- **Mystic career**: Healing powers, tending wounds
+- **Cybertech career**: Emergency medical procedures, cyber-medical care
+- **Wanderer career**: Natural remedies, field medicine
+
+### Stealth and Infiltration
+- **Rogue career**: All stealth applications, hiding, moving silently
+- **Wanderer career**: Natural camouflage, moving through wilderness
+- **Psionicist career**: Mental concealment, telepathic misdirection
+
+### Career Combat Specializations
+When choosing specializations, combat-focused options provide +2 to specific combat applications:
+
+**Warrior Specializations:**
+- **Duelist**: +2 to Fighting with light weapons, +1 Parry
+- **Archer**: +2 to Shooting with bows/crossbows, ignore 2 points of range penalty
+- **Berserker**: +2 to Fighting when Shaken or Wounded
+- **Tactician**: +2 to Knowledge (Battle) and supporting allies
+
+**Rogue Specializations:**
+- **Assassin**: +2 to damage on surprise attacks
+- **Scout**: +2 to Notice and Stealth in natural environments
+- **Acrobat**: +2 to Athletics for movement and evasion
+
+**Psionicist Specializations:**
+- **Battle Telepath**: +2 to Psionicist when using mental powers in combat
+- **Telekinetic Warrior**: Can use Psionicist career for "ranged Fighting" with TK
+
+### Multi-Career Combat Examples
+**Warrior + Rogue**: Switch between direct combat and dirty fighting
+**Warrior + Psionicist**: Enhance combat with mental powers  
+**Rogue + Psionicist**: Psychic assassin with mental stealth
+**Pilot + Warrior**: Ace pilot who can handle ship-to-ship and personal combat
+**Corporate + Psionicist**: Social manipulation backed by mental influence
+
+### Untrained Combat
+Characters without Warrior or appropriate combat careers:
+- **Untrained Fighting**: d4-2 (very poor hand-to-hand)
+- **Untrained Shooting**: d4-2 (basic weapon handling)
+- **Improvised Weapons**: Additional -2 penalty without Warrior career
+- **Some weapons may require specific career knowledge to use effectively**
 
 ## Science Fiction Extensions
 
